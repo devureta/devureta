@@ -1,5 +1,6 @@
 Hi, I’m Gianfranco :zap:  
-I like to craft solid and scalable frontend products with inclusive Web user interfaces and design systems, with a strong focus on responsive design. I love Open Source and linux.  
+I like to craft solid and scalable frontend products with inclusive Web user interfaces and design systems, with a strong focus on responsive design.  
+:heart: I love Open Source and linux  
 🌱 I’m currently learning javascript  
 📫 How to reach me: @devureta on Twitter
 
